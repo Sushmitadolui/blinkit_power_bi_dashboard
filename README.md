@@ -111,4 +111,4 @@ Before creating the report, it's essential to have a good understanding of the d
 
 ---
 
-![BLINKIT Power BI Dashboard](INSERT_YOUR_DRIVE_LINK_HERE)
+![BLINKIT Power BI Dashboard](https://drive.google.com/file/d/1YiJOooSRXGNoZ7UyGk1g5DnxiH0QP8rB/view?usp=sharing)
